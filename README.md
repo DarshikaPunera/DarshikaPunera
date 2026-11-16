@@ -47,12 +47,5 @@ A machine learning-based system designed to identify fraudulent UPI transactions
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshikaPunera&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshikaPunera&layout=compact&theme=tokyonight&hide_border=true)
 
 Always learning, building, and improving.
